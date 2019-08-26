@@ -96,6 +96,8 @@ BOOL CETMacroApp::InitInstance()
 		delete pShellManager;
 	}
 
+    int dfddfdf = 0;
+
 #ifndef _AFXDLL
 	ControlBarCleanUp();
 #endif
