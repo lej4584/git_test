@@ -47,7 +47,7 @@ public:
     CRect m_rectClient; // dialog 좌측 상단이 0,0
 
 
-    HWND m_webHwnd;
+    HWND m_webHwnd;;;;;
 
     CWinThread* m_pMainThread; // Main Thread
     E_ThreadState m_nCurState; // 현재 Thread 상태
