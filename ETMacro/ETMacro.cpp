@@ -33,7 +33,7 @@ CETMacroApp::CETMacroApp()
 
 // 유일한 CETMacroApp 개체입니다.
 
-CETMacroApp theApp;
+CETMacroApp theApp;;;
 
 
 // CETMacroApp 초기화
