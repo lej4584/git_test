@@ -23,7 +23,7 @@ END_MESSAGE_MAP()
 CETMacroApp::CETMacroApp()
 {
 	// 다시 시작 관리자 지원
-	m_dwRestartManagerSupportFlags = AFX_RESTART_MANAGER_SUPPORT_RESTART;
+	m_dwRestartManagerSupportFlags = AFX_RESTART_MANAGER_SUPPORT_RESTART;;;;
 
     m_fMacroSpeed = 1.f;
 	// TODO: 여기에 생성 코드를 추가합니다.
