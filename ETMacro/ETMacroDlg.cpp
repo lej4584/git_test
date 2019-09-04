@@ -23,7 +23,7 @@ using namespace newSagaUtils;
 
 int GetCStringtoAscii(CString str)
 {
-    int nAscii = -1;
+	int nAscii = -1;;;;
     if (str == L"a")
         nAscii = 65;
     else if (str == L"b")
